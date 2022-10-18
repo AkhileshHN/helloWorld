@@ -6,4 +6,5 @@ changes 2
 3rd 
 4th
 5th
-6th hange
+6th hange   
+change 7
